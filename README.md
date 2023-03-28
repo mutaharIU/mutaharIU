@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **mutaharIU/mutaharIU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,18 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+[![MasterHead](https://camo.githubusercontent.com/2dcf1a73f7dcb84e53882d821de7b61d4362388b92e1f9d974563c489abeb342/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3730302f302a4647443642557a7a5a7331564a4c75592e676966)](/mutaharIU) 
 <h1 align="center">Hi 👋, I'm Syed Muhammad Mutahar Jamal</h1>
 <h3 align="center">A passionate MERN Stack developer from Pakistan</h3>
-<img align="right" alt="coding" width="400" scr="https://github.com/rudrabarad/Gifs">
+<img align="center" alt="Codeing" width="400" scr="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogramming&psig=AOvVaw2Kke0AXzUPeX_iJWxI8Chw&ust=1680083364578000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPC25rOs_v0CFQAAAAAdAAAAABAE">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mutahariu&label=Profile%20views&color=0e75b6&style=flat" alt="mutahariu" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mutahar_jamal" target="blank"><img src="https://img.shields.io/twitter/follow/mutahar_jamal?logo=twitter&style=for-the-badge" alt="mutahar_jamal" /></a> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, Next Js, React , JavaScript, Node Js, Express, MongoDb**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, React , Next Js, Node Js, Express, MongoDb**
 
-- 💬 Ask me about **React, User Interface, Next Js , Web Application**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Next Js, Node Js, Express, MongoDb, User Interface, Web Application, wireframe design**
 
 - 📫 How to reach me **mutaharjamal7@gmail.com**
 
